@@ -1,3 +1,3 @@
 # spam-bot
 
-This program uses 'selenium' to spam any GUI application with text
+This program uses 'pyautogui' library to spam any GUI application with text
